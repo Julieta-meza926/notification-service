@@ -33,3 +33,7 @@ eureka:
   application:
     name: notification
 
+logging:
+  level:
+    root: INFO
+    com.listener.clientservicelistener: DEBUG

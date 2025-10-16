@@ -1,6 +1,5 @@
 package com.listener.clientservicelistener.entity;
 
-import io.github.resilience4j.circuitbreaker.annotation.CircuitBreaker;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
